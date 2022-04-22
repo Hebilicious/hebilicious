@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-I'm a Fullstack Engineer based in London.
+I'm a FullStack Engineer based in London.
 
-- 🔭 I’m currently working on working on stuff !
-- ⚗  I'm working on a few open-source projects that will be released one day, soon ™
-- 🌱 I’m currently learning Rust (or atleast I try)
-- 💬 Ask me about anything! Slides into my dms
-- 📫 How to reach me: [Twitter](https://twitter.com/its_hebilicious)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: [...]
+- 🥷🏾 Shadowy Super Coder ...
+- ⚗ Working on a few open-source projects that will be released one day, soon ™
+- 💬 Feel free to slides into my dms
+- ⚡ I'm not opinionated over Tech stacks, that being said : 
+  - Vue over React
+  - CSS over Tailwind
+  - GraphQL over Rest
+  - Postgres over Mysql
+  - Cloudflare Workers over AWS Lambda
+  - Typescript over JavaScript
+  - JavaScript over everything else
+- 📫 Come tell me I'm wrong on [Twitter](https://twitter.com/its_hebilicious)
