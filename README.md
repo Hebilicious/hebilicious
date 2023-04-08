@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
-I'm a FullStack Engineer.
+I'm a senior FullStack Engineer.
+LLMs has given all of us old-timers 100x productivity powers.
+Use them wisely.
 
 - 🥷🏾 Shadowy Super Coder at night ...
 - ⚗ Working on some open-source projects ™
@@ -15,5 +17,8 @@ I'm a FullStack Engineer.
   - Typescript over JavaScript
   - FP over OOP
   - Composition over inheritance
+  - Android over iOS
+  - Windows 11 over OSX
+  - Apple silicon over everything
   - JavaScript over everything else
 - 📫 Come tell me I'm wrong on [Twitter](https://twitter.com/its_hebilicious)
