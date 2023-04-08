@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a FullStack Engineer based in London.
+I'm a FullStack Engineer.
 
-- 🥷🏾 Shadowy Super Coder ...
-- ⚗ Working on a few open-source projects that will be released one day, soon ™
+- 🥷🏾 Shadowy Super Coder at night ...
+- ⚗ Working on some open-source projects ™
 - 💬 Feel free to slides into my dms
 - ⚡ I'm not opinionated over Tech stacks, that being said : 
   - Vue over React
