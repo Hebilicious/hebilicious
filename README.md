@@ -1,8 +1,7 @@
 ### Hello there 👋
 
 I'm a senior FullStack Engineer.
-LLMs has given all of us old-timers 100x productivity powers.
-Use them wisely.
+I'm part of the @unjs and the @nuxt team.
 
 - 🥷🏾 Shadowy Super Coder at night ...
 - ⚗ Working on some open-source projects ™
@@ -21,4 +20,5 @@ Use them wisely.
   - Windows 11 over OSX
   - Apple silicon over everything
   - JavaScript over everything else
+  - Deno/Bun over Node
 - 📫 Come tell me I'm wrong on [Twitter](https://twitter.com/its_hebilicious)
