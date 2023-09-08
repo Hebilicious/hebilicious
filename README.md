@@ -10,7 +10,8 @@ I'm part of the @unjs and the @nuxt team.
   - Vue over React
   - CSS over Tailwind
   - GraphQL over Rest
-  - Pnpm over Yarn
+  - Pnpm over npm over yarn
+  - Bun over Deno over Node
   - Postgres over Mysql
   - Cloudflare Workers over AWS Lambda
   - Typescript over JavaScript
@@ -20,5 +21,4 @@ I'm part of the @unjs and the @nuxt team.
   - Windows 11 over OSX
   - Apple silicon over everything
   - JavaScript over everything else
-  - Deno/Bun over Node
 - 📫 Come tell me I'm wrong on [Twitter](https://twitter.com/its_hebilicious)
